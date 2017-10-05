@@ -13,7 +13,10 @@ class App extends Component {
 
 state = {
   recipes: [
-    {recipeName: 'Cake', ingredients: ['eggs', 'wheat', 'sugar']}
+    {recipeName: 'Cake', ingredients: ['eggs', 'wheat', 'sugar']},
+    {recipeName: 'Eggs', ingredients: ['eggs', 'wheat', 'sugar']},
+    {recipeName: 'Cinnamon Rolls', ingredients: ['eggs', 'wheat', 'sugar']},
+    {recipeName: 'Pancakes', ingredients: ['eggs', 'wheat', 'sugar']}   
   ]
 }
 
