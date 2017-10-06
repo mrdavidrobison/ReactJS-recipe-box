@@ -16,7 +16,8 @@ state = {
     {recipeName: 'Cake', ingredients: ['eggs', 'wheat', 'sugar']},
     {recipeName: 'Eggs', ingredients: ['eggs', 'wheat', 'sugar']},
     {recipeName: 'Cinnamon Rolls', ingredients: ['eggs', 'wheat', 'sugar']},
-    {recipeName: 'Pancakes', ingredients: ['eggs', 'wheat', 'sugar']}   
+    {recipeName: 'Pancakes', ingredients: ['eggs', 'wheat', 'sugar']},
+    {recipeName: 'Flapjacks', ingredients: ['eggs', 'wheat', 'sugar']}    
   ]
 }
 
